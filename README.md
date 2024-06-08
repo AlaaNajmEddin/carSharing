@@ -1,6 +1,26 @@
-**Die Web-Applikation** wurde entwickelt, um verschiedenen Aktivitäten für Benutzer zu ermöglichen, 
-darunter das Erstellen von Fahrten oder das Reservieren von Plätzen für diese Fahrten. <br />
-Zum Beispiel können Benutzer Fahrten zwischen zwei Städten erstellen und dabei eine bestimmte Anzahl von freien Plätzen anbieten, 
-die von anderen Benutzern reserviert werden können. <br />
-Bei der Entwicklung lag ein besonderer Fokus auf der nahtlosen Integration mit der Datenbank sowie auf der Implementierung von Sicherheitsmaßnahmen zur Verhinderung von SQL-Injektionen,
-um die Sicherheit und Zuverlässigkeit der Anwendung zu gewährleisten.
+# CarSharing-Web-Applikation
+
+1. Entwicklung einer Web-Applikation zur Erstellung und Reservierung von Fahrten zwischen Städten
+2. Nutzung von Java, HTML und CSS
+3. Einsatz von MySQL-Datenbanken
+
+## Technologie-Stack
+
+- **Frontend**: HTML, CSS
+- **Backend**: Java
+- **Datenbank**: MySQL
+
+## Installation
+
+### Voraussetzungen
+
+- Java Development Kit (JDK)
+- MySQL-Datenbank
+- Webbrowser
+
+### Schritte
+
+1. **Repository klonen**
+   ```bash
+   git clone https://github.com/IhrBenutzername/CarSharing.git
+
